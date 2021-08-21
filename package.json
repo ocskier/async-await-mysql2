@@ -1,0 +1,28 @@
+{
+  "name": "async-await-mysql2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocskier/async-await-mysql2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocskier/async-await-mysql2/issues"
+  },
+  "homepage": "https://github.com/ocskier/async-await-mysql2#readme",
+  "dependencies": {
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
